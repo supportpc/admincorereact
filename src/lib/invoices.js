@@ -10,8 +10,8 @@ const COMPANY = {
   address: ['Gedung Nusa Tower Lt. 12, Jl. Jend. Sudirman Kav. 45', 'Jakarta Selatan 12930, Indonesia'],
   npwp: '01.234.567.8-012.000',
   phone: '+62 21 5555 0100',
-  email: 'finance@nusacore.id',
-  website: 'www.nusacore.id',
+  email: 'finance@ReactCore.id',
+  website: 'www.ReactCore.id',
 };
 
 const BANK = { bank: 'Bank Central Asia (BCA)', account: '123 456 7890', holder: 'PT Nusa Core Teknologi', branch: 'KCU Sudirman' };

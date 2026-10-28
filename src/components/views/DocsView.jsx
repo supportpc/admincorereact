@@ -5,7 +5,7 @@ export default function DocsView() {
       <div className="page-head">
         <div>
           <h1 className="page-title">Documentation</h1>
-          <p className="page-desc">Panduan penggunaan third-party libraries yang terintegrasi di NusaCore.</p>
+          <p className="page-desc">Panduan penggunaan third-party libraries yang terintegrasi di ReactCore.</p>
         </div>
       </div>
       <div className="docs-grid">

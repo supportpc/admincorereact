@@ -41,7 +41,7 @@ export default function SettingsView() {
           <div className="grid-2">
             <div className="form-group">
               <label className="form-label">Nama Aplikasi</label>
-              <input className="form-control" defaultValue="NusaCore" />
+              <input className="form-control" defaultValue="ReactCore" />
             </div>
             <div className="form-group">
               <label className="form-label">Timezone</label>

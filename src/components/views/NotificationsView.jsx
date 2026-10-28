@@ -120,7 +120,7 @@ export default function NotificationsView() {
           </div>
           <div className="notif-body">
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
-              <b>Selamat Datang di NusaCore!</b>
+              <b>Selamat Datang di ReactCore!</b>
               <span className="notif-time">1 hari lalu</span>
             </div>
             <p>Terima kasih telah menggunakan template admin panel. Jelajahi semua fitur yang tersedia di sidebar.</p>

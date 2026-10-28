@@ -40,7 +40,7 @@ export default function AdminShell({ children }) {
             <div className="brand-wrapper">
               <div className="logo-icon">A</div>
               <div className="brand-text">
-                <div className="logo-text">NusaCore</div>
+                <div className="logo-text">ReactCore</div>
                 <div className="logo-sub">Complete Panel Kit</div>
               </div>
             </div>
