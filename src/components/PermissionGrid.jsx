@@ -1,4 +1,3 @@
-
 import { permissions } from '@/lib/data';
 
 // Permission matrix (first 8 permissions checked by default, same as the original app.js)

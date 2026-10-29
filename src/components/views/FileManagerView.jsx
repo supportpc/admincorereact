@@ -1,4 +1,3 @@
-
 import { useAdmin } from '@/components/AdminProvider';
 import DropzoneBox from '@/components/DropzoneBox';
 

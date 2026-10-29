@@ -1,4 +1,3 @@
-
 import { useEffect, useRef } from 'react';
 
 // Wraps Quill 2 (snow theme). Quill injects its own toolbar, so it gets a wrapper it fully owns.

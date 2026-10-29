@@ -1,11 +1,10 @@
-
 export default function DocsView() {
   return (
     <section id="page-docs" className="page-view active">
       <div className="page-head">
         <div>
           <h1 className="page-title">Documentation</h1>
-          <p className="page-desc">Panduan penggunaan third-party libraries yang terintegrasi di ReactCore.</p>
+          <p className="page-desc">Panduan penggunaan third-party libraries yang terintegrasi di NusaCore.</p>
         </div>
       </div>
       <div className="docs-grid">

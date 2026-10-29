@@ -1,4 +1,3 @@
-
 import { useAdmin } from '@/components/AdminProvider';
 
 export default function ReportsView() {

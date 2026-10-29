@@ -1,4 +1,3 @@
-
 import { useEffect, useRef } from 'react';
 import Chart from 'chart.js/auto';
 import { useAdmin } from '../AdminProvider';

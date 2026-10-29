@@ -1,4 +1,3 @@
-
 import { useEffect } from 'react';
 
 // Confirm-delete popup. Props mirror the original React-Bootstrap one:

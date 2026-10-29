@@ -1,4 +1,3 @@
-
 import { useEffect, useRef } from 'react';
 
 // Wraps DataTables 2.1.8 (same init options as the original page).

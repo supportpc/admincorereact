@@ -1,4 +1,3 @@
-
 import { useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
@@ -20,7 +19,7 @@ export default function LoginView() {
           <div className="brand-icon">
             <i className="fa-solid fa-cube" />
           </div>
-          <h1>ReactCore</h1>
+          <h1>NusaCore</h1>
           <p>Panel administrasi all-in-one untuk kelola user, transaksi, laporan, dan pengaturan sistem.</p>
           <div className="brand-features">
             <span>

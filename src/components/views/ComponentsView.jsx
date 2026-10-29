@@ -1,4 +1,3 @@
-
 import { AlertDemoCard, DateRangeCard, ColorPickerCard, RangeSliderCard, TabsCard } from '@/components/ComponentsDemos';
 
 export default function ComponentsView() {

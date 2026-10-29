@@ -1,4 +1,3 @@
-
 import { useAdmin } from './AdminProvider';
 
 // The 6 auth screens that app.js rendered via authTemplates[...]

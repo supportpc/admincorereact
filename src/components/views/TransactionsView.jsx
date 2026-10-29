@@ -1,4 +1,3 @@
-
 import { useState } from 'react';
 import { useAdmin } from '@/components/AdminProvider';
 import { transactions as allTransactions, badgeClass } from '@/lib/data';

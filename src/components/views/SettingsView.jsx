@@ -1,4 +1,3 @@
-
 import { useState } from 'react';
 import { useAdmin } from '@/components/AdminProvider';
 
@@ -41,7 +40,7 @@ export default function SettingsView() {
           <div className="grid-2">
             <div className="form-group">
               <label className="form-label">Nama Aplikasi</label>
-              <input className="form-control" defaultValue="ReactCore" />
+              <input className="form-control" defaultValue="NusaCore" />
             </div>
             <div className="form-group">
               <label className="form-label">Timezone</label>

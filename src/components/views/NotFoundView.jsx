@@ -11,7 +11,9 @@ export default function NotFoundView() {
           <div className="error-code">{e.code}</div>
           <h2 className="mb-2">{e.title}</h2>
           <p className="text-muted mb-4">{e.desc}</p>
-          <Link to="/dashboard" className="btn btn-primary">Back to Dashboard</Link>
+          <Link to="/dashboard" className="btn btn-primary">
+            Back to Dashboard
+          </Link>
         </div>
       </div>
     </section>

@@ -21,6 +21,8 @@ export const navSections = [
     title: 'Operational',
     items: [
       { label: 'Notifications', icon: 'fa-bell', href: '/notifications', pill: '5' },
+      { label: 'Email', icon: 'fa-envelope', href: '/email', pill: '4' },
+      { label: 'Chat', icon: 'fa-comments', href: '/chat', pill: '2' },
       { label: 'File Manager', icon: 'fa-folder-open', href: '/file-manager' },
       { label: 'Reports', icon: 'fa-chart-line', href: '/reports' },
       { label: 'Audit Log', icon: 'fa-clipboard-list', href: '/audit' },
@@ -73,6 +75,8 @@ export const commandItems = [
   { title: 'Login Page', desc: 'Halaman login standalone', icon: 'fa-right-to-bracket', target: 'page-login' },
   { title: 'Invoices', desc: 'Invoice ERP profesional', icon: 'fa-file-invoice-dollar', target: 'page-invoice' },
   { title: 'Data Table', desc: 'Tabel lengkap: filter, sort, export', icon: 'fa-table', target: 'page-data-table' },
+  { title: 'Email', desc: 'Inbox, kirim, tulis, balas', icon: 'fa-envelope', target: 'page-email' },
+  { title: 'Chat', desc: 'Pesan, foto, video, voice note', icon: 'fa-comments', target: 'page-chat' },
   { title: 'Tambah User', desc: 'Quick action create user', icon: 'fa-user-plus', action: 'addUser' },
   { title: 'Open Settings', desc: 'Pengaturan aplikasi', icon: 'fa-gear', target: 'page-settings' },
 ];

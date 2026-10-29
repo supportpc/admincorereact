@@ -1,4 +1,3 @@
-
 import { useEffect, useRef } from 'react';
 
 // Wraps Dropzone.js (v5). Same options/behaviour as the original inline <script>.

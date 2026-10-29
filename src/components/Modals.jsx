@@ -1,4 +1,3 @@
-
 import { useAdmin } from './AdminProvider';
 
 export default function Modals() {

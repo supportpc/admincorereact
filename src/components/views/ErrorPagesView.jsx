@@ -1,4 +1,3 @@
-
 import { useState } from 'react';
 import { useAdmin } from '@/components/AdminProvider';
 import { errorTemplates } from '@/lib/data';
